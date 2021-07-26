@@ -1,6 +1,12 @@
 # PreExamAPI
 
-Jest to API projektu [PreExam](https://preexam.pl/).
+Jest to import repozytorium API projektu [PreExam](https://preexam.pl/) z GitLab'a.
+
+## Co warto zobaczyć
+  Poniżej znajdują się przykłady bardziej ciekawych rozwiązań technicznych i algotytmów, mojego autorstwa.
+   + [Walidator](https://github.com/lukaszpodeszwa/preexam-api/blob/main/api/middlewares/validator.py)
+   + [Przetwarzanie MJML na HTML i interejs do wysłania maili](https://github.com/lukaszpodeszwa/preexam-api/blob/main/api/mailing.py)
+   + [Implementacja zasobu kategorii używając stuktury drzewa](https://github.com/lukaszpodeszwa/preexam-api/blob/main/api/categories/service.py)
 
 ## Instalacja
 
